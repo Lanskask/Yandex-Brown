@@ -1,0 +1,3 @@
+project(W4_SHARED_WEAK_POINTERS)
+
+add_executable(shared_pointer_expr shared_pointer_expr.cpp)
